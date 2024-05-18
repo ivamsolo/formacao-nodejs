@@ -1,0 +1,20 @@
+[
+    {
+        "podcastName":"Flow",
+        "episode":"Episode #319",
+        "videoId":"pQSuQmUfS30",
+        "categories":["saúde", "esporte", "bodybuilder"]
+    },
+    {
+        "podcastName":"Flow",
+        "episode":"Episode #339",
+        "videoId":"4KDGTdiOV4I",
+        "categories":["esporte", "corrida"]
+    },
+    {
+        "podcastName":"Nerdcast",
+        "episode":"Episode #339",
+        "videoId":"4KDGTdiOV4I",
+        "categories":["esporte", "corrida"]
+    }
+]
